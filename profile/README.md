@@ -1,5 +1,4 @@
-# VividStore
-The #1 App Store for Kraken-based OS'
+# GOOB
+on-device ai
 
-# Installation
-Coming soon.
+but actually pretty good maybe, idk it's not out yet
